@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.Bar{
+  background: #424242;
+  border-radius:10px 10px 10px 10px;
+}
+
+body{
+  background: black;
+  background-repeat: no-repeat;
+}
+
+.Bar a:link, .Bar a:visited {
+  text-decoration:none;
+  color: white;
+  font-size: 40px;
+  font-family: 'Amatic SC', cursive;
+}
+
+.Bar a:hover {
+  font-family: 'Amatic SC', cursive;
+  background: #6e3844;
+  font-size: 40px;
+  border-radius:10px 10px 10px 10px;
+}
+
+.Intro {
+  font-family: 'Amatic SC', cursive;
+  font-size: 50px;
+  margin-top: 100px;
+  text-align: center;
+  color: white;
+}
+
+.elfsight-app-31fc5cdf-184d-4b6c-93e7-726dae841a4f{
+  margin-top: 100px;
+}
+
+.PowerdBy{
+  color:white;
+  text-align: right;
+}
+
+.Logo{
+  display: block;
+  float: right;
+}
