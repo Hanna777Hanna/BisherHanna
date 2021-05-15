@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.Bar{
+  background: #424242;
+  border-radius:10px 10px 10px 10px;
+}
+
+body{
+  background: black;
+  background-repeat: no-repeat;
+}
+
+p {
+  color: white;
+}
+
+Label{
+  font-family: 'Open Sans', sans-serif;
+  color: white; 
+}
+
+.Sf {
+  font-family: 'Amatic SC', cursive;
+  font-size: 50px;
+  margin-top: 100px;
+  text-align: center;
+  color: white;
+}
+
+.TheHabibis{
+  font-family: 'Amatic SC', cursive;
+  font-size: 150px;
+  text-align: center;
+  color: white;
+}
+
+.Inh{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+}
+
+.Images{
+ margin-top: 200px; 
+}
+
+.Siekh{
+ float: left;
+}
+
+.Falafel{
+float: right;
+}
+
+.Menue{
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+  text-align: center;
+  color: white;
+  text-decoration:none;
+  list-style-type: none;
+}
+
+.M{
+  font-family: 'Amatic SC', cursive;
+  font-size: 100px;
+  text-align: center;
+  color: white;
+  margin-top: 100px;
+}
+
+.Price{
+  text-align: center;
+}
+
+.Getraenke{
+  font-size: 60px;
+  text-align: center;
+}
+
+.Stunden{
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+  text-align: center;
+  color: white;
+  text-decoration:none;
+  list-style-type: none;
+  background: #545332;
+  border-radius:20px 20px 20px 20px;
+}
+
+.Stunden1{
+  font-family: 'Amatic SC', cursive;
+  font-size: 100px;
+  text-align: center;
+  color: white;
+  margin-top: 100px;
+  
+}
+
+.Bestellen{
+  font-family: 'Amatic SC', cursive;
+  text-align: center;
+  font-size: 70px;
+}
+
+form{
+  text-align: center;
+  background: #1b2b36;
+  font-family: 'Open Sans', sans-serif;
+  border-radius:20px 20px 20px 20px;
+}
+
+.Submit{
+  width: 5em;
+  height: 3em;
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+  background: #424242;
+  color: white;
+  border-radius:20px 20px 20px 20px;
+}
+
+.SubmitButton{
+  margin-top: 40px;
+}
+
+.PowerdBy{
+  color:white;
+  text-align: right;
+}
+
+.Logo{
+  display: block;
+  float: right;
+}
+
+
+.Bar a:link, .Bar a:visited {
+  text-decoration:none;
+  color: white;
+  font-size: 40px;
+  font-family: 'Amatic SC', cursive;
+}
+
+.Bar a:hover {
+  font-family: 'Amatic SC', cursive;
+  background: #6e3844;
+  font-size: 40px;
+  border-radius:10px 10px 10px 10px;
+}
+
+.Bar a:active {
+  font-family: 'Amatic SC', cursive;
+  background: #eb9da6;
+  font-size: 40px;
+} 
+
+.Maps{
+  width-max: auto;
+  width:100%; 
+}

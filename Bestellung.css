@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.Bar{
+  background: #424242;
+  border-radius:10px 10px 10px 10px;
+}
+
+body{
+  background: black;
+  background-repeat: no-repeat;
+}
+
+.Bar a:link, .Bar a:visited {
+  text-decoration:none;
+  color: white;
+  font-size: 40px;
+  font-family: 'Amatic SC', cursive;
+}
+
+.Bar a:hover {
+  font-family: 'Amatic SC', cursive;
+  font-size: 3em;
+  background: #6e3844;
+  font-size: 40px;
+  border-radius:10px 10px 10px 10px;
+}
+
+.Bar a:active {
+  font-family: 'Amatic SC', cursive;
+  background: #eb9da6
+  font-size: 40px;
+} 
+
+.Uebersicht {
+  font-family: 'Amatic SC', cursive;
+  font-size: 100px;
+  margin-top: 100px;
+  text-align: center;
+  color: white;
+}
+
+.List{
+  text-align: center;
+  background: #1b2b36;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  border-radius:20px 20px 20px 20px;
+}
+
+.Oops{
+  color: #c4213f;
+}
+
+.PowerdBy{
+  color:white;
+  text-align: right;
+  
+}
+
+.Logo{
+  display: block;
+  float: right;
+}
+
