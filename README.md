@@ -22,7 +22,7 @@ Am Ende der Seite sehen Sie eine Karte¸ um zu zeigen, wo Sie uns finden können
 
 -Kontakt: um uns zu kontaktieren, mit 4 Feldern (Vorname, Nachname, E-Mail, Nachricht und der Senden-Button)
 
-Über: Ein kurzer Überblick zu den Entwicklern der Seite (Hanna & Bisher) mit der Möglichkeit, das gesamte Projekt als CSS- und HTML-Dateien aus Github herunterzuladen!
+-Über: Ein kurzer Überblick zu den Entwicklern der Seite (Hanna & Bisher) mit der Möglichkeit, das gesamte Projekt als CSS- und HTML-Dateien aus Github herunterzuladen!
 Und schließlich ein lustiges Video über ein Schwarm Challenge :D
 
 -Covid19: Hier finden Sie die aktuelle Statistik zu Covid-19-Fällen auf der ganzen Welt (Dies wird als Widget angezeigt, daher kann das Laden max. 2 Sekunden dauern)
