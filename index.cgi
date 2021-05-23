@@ -62,7 +62,7 @@ W1 = form['W1'].value
 
 
 if SS == '0' and ST == '0' and FS == '0' and FT == '0' and HT == '0' and A == '0' and C == '0' and S == '0' and F == '0' and W0 == '0' and W1 == '0':
-    print("<p class='Oops'><Strong> Oops, du hast nichts aus der Menue ausgewählt</Strong> </p><br>")
+    print("<p class='Oops'><Strong> Oops, du hast nichts aus dem Menü ausgewählt</Strong> </p><br>")
 
 
 if SS != '0':
