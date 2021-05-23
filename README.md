@@ -1,4 +1,4 @@
-URL der SemesterAufgabe:
+URL der Semesteraufgabe:
 http://pan.th-brandenburg.de/~alkaisi/index.html
 
 Namen und Matrikelnummern der Teammitglieder:
