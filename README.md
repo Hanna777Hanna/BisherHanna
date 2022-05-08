@@ -48,7 +48,7 @@ Am Ende der Seite sehen Sie eine Karte¸ um zu zeigen, wo Sie uns finden können
 
 -Über: Ein kurzer Überblick zu den Entwicklern der Seite (Hanna & Bisher) mit der Möglichkeit, das gesamte Projekt als CSS- und HTML-Dateien aus Github herunterzuladen!
 
-Und schließlich ein lustiges Video über ein Schwarm Challenge :D
+Und schließlich ein lustiges Video über ein Schwarma Challenge :D
 
 
 
